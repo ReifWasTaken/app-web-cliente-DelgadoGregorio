@@ -1,0 +1,1 @@
+generate only the html skeleton and 5 new products
